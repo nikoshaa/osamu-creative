@@ -5,7 +5,7 @@ import id from '~/i18n/locales/id.json'
 export default defineNuxtPlugin((nuxtApp) => {
   const i18n = createI18n({
     legacy: false,
-    locale: 'id',           
+    locale: 'en',           
     fallbackLocale: 'en',
     messages: {
       en,

@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "expertise": "Expertise",
+    "contact": "Contact",
+    "cta_free_consult": "Free Consult"
+  },
+
+  "hero": {
+    "badge_tagline": "Software House & Digital Product Studio",
+    "title_main": "We build digital products",
+    "title_highlight": "that are used, not just looked at.",
+    "description": "Osamu Creative helps startups and companies design, build, and grow web apps, mobile apps, and internal systems that focus on user experience and real business needs.",
+    "cta_consult": "Book a Consultation",
+    "cta_portfolio": "View Portfolio",
+    "stat1_title": "5+ years of experience",
+    "stat1_desc": "building digital products across industries",
+    "stat2_title": "Collaborative & transparent",
+    "stat2_desc": "a process that works closely with your internal team",
+    "snapshot_title": "Digital Project Snapshot",
+    "metric1_label": "Active projects",
+    "metric1_value": "8",
+    "metric1_desc": "3 sprints ongoing",
+    "metric2_label": "Feature lead time",
+    "metric2_value": "2–3",
+    "metric2_desc": "weeks on average",
+    "metric3_label": "Client NPS",
+    "metric3_value": "9.1",
+    "metric3_desc": "out of 10 scale",
+    "pipeline_label": "Sprint pipeline",
+    "pipeline_status": "On track",
+    "pipeline_item1_name": "Fintech dashboard",
+    "pipeline_item1_status": "Sprint 02",
+    "pipeline_item2_name": "Healthcare app",
+    "pipeline_item2_status": "Sprint 05",
+    "pipeline_item3_name": "Internal tools",
+    "pipeline_item3_status": "Discovery",
+    "mobile_caption_prefix": "From research and design to shipping, Osamu Creative",
+    "mobile_caption_highlight": "guides your digital product end-to-end",
+    "mobile_caption_suffix": "."
+  },
+
+  "clients": {
+    "subtitle": "Trusted by teams across industries",
+    "fintech": "Fintech",
+    "healthcare": "Healthcare",
+    "fmcg": "FMCG",
+    "saas_b2b": "SaaS B2B",
+    "edutech": "EduTech"
+  },
+
+  "services": {
+    "title": "Osamu Creative Services",
+    "subtitle": "We help you from idea to shipped product — through thoughtful design, solid engineering, and a transparent collaboration process.",
+
+    "webapps_badge": "Web Application",
+    "webapps_title": "Web Apps & Dashboards",
+    "webapps_desc": "We build scalable, maintainable web apps and internal dashboards — from admin panels to SaaS platforms.",
+    "webapps_bullet1": "Business dashboards & reporting",
+    "webapps_bullet2": "Internal tools & workflow automation",
+    "webapps_bullet3": "SaaS platforms & customer portals",
+
+    "mobile_badge": "Mobile Product",
+    "mobile_title": "iOS & Android Mobile Apps",
+    "mobile_desc": "We design and develop mobile apps with smooth, consistent user experiences across devices.",
+    "mobile_bullet1": "Consumer apps & loyalty programs",
+    "mobile_bullet2": "On-the-field operation apps",
+    "mobile_bullet3": "Prototyping & MVPs for startups",
+
+    "ux_badge": "Product & UX",
+    "ux_title": "UI/UX & Product Discovery",
+    "ux_desc": "We help your team understand user needs, map flows, and craft high-fidelity designs ready for development.",
+    "ux_bullet1": "UX research & user interviews",
+    "ux_bullet2": "Design systems & UI kits",
+    "ux_bullet3": "Product workshops with stakeholders"
+  },
+
+  "process": {
+    "title": "Clear Collaboration Process",
+    "subtitle": "We believe a healthy project starts with clear expectations. This is the process we use for almost all Osamu Creative engagements.",
+    "note": "Flexible for waterfall, agile sprint, or hybrid workflows.",
+
+    "phase1_badge": "Phase 01",
+    "phase1_title": "Discovery & Scope",
+    "phase1_duration": "1–2 weeks",
+    "phase1_desc": "Requirement workshops, user journey mapping, feature prioritization, and defining a realistic project scope.",
+
+    "phase2_badge": "Phase 02",
+    "phase2_title": "Design & Prototype",
+    "phase2_duration": "2–4 weeks",
+    "phase2_desc": "Wireframes, UI design, and clickable prototypes for validating product direction before development.",
+
+    "phase3_badge": "Phase 03",
+    "phase3_title": "Development & QA",
+    "phase3_duration": "4–8 weeks",
+    "phase3_desc": "Frontend & backend implementation, API integrations, automated tests, and manual QA in staging.",
+
+    "phase4_badge": "Phase 04",
+    "phase4_title": "Launch & Iteration",
+    "phase4_duration": "±1–2 weeks",
+    "phase4_desc": "Structured go-live, early metrics observation, and iteration based on user and internal team feedback."
+  },
+
+  "portfolio": {
+    "title": "Featured Portfolio",
+    "subtitle": "A snapshot of projects we’ve worked on — from internal dashboards to consumer-facing applications.",
+
+    "p1_badge": "Web Application",
+    "p1_title": "Sales & Inventory Dashboard",
+    "p1_desc": "A real-time dashboard to monitor sales, stock levels, and sales team performance across multiple cities.",
+    "p1_tech": "Tech stack: Nuxt, Node.js, PostgreSQL, Tailwind CSS",
+
+    "p2_badge": "Mobile Product",
+    "p2_title": "Loyalty App for Retail Brand",
+    "p2_desc": "A membership app with points, vouchers, and push notifications to increase customer repeat purchases.",
+    "p2_tech": "Tech stack: Flutter, Firebase, REST API",
+
+    "p3_badge": "Product & UX",
+    "p3_title": "SaaS Platform UX Revamp",
+    "p3_desc": "End-to-end redesign for a B2B SaaS platform, focusing on simplifying complex flows and improving adoption.",
+    "p3_meta": "Deliverables: UX audit, design system, prototype",
+
+    "cta_text": "Want to see more detailed case studies?",
+    "cta_highlight": "We can share a portfolio tailored to your industry.",
+    "cta_hint": "Include your business type and project needs in the consultation form."
+  },
+
+  "expertise": {
+    "title": "Tech Stack & Expertise",
+    "subtitle": "We combine solid engineering with thoughtful design — so your product not only works, but feels great to use.",
+
+    "frontend_label": "Front-end",
+    "frontend_item1": "Nuxt (Vue), React, Next.js",
+    "frontend_item2": "Tailwind CSS, Headless UI",
+    "frontend_item3": "Design systems & component libraries",
+
+    "backend_label": "Back-end & Data",
+    "backend_item1": "Node.js, Laravel",
+    "backend_item2": "PostgreSQL, MySQL, Redis",
+    "backend_item3": "REST APIs & third-party integrations",
+
+    "ops_label": "Delivery & Ops",
+    "ops_item1": "GitHub / GitLab CI",
+    "ops_item2": "Docker & container deployments",
+    "ops_item3": "Basic monitoring & error tracking"
+  },
+
+  "about": {
+    "title": "Osamu Creative: Less, but Better.",
+    "paragraph1": "Osamu Creative is a software house and digital product studio focused on clean execution, clear design, and communication that is easy to follow for every stakeholder.",
+    "paragraph2": "We like to work closely with your internal team — founders, product, and ops — to ensure what we build truly solves business problems, not just adds more features.",
+
+    "how_we_work_title": "How We Work",
+    "how_we_work_item1": "Transparent about scope & timeline",
+    "how_we_work_item2": "Regular communication through agreed channels",
+    "how_we_work_item3": "Documentation that can be handed over to your internal team",
+    "how_we_work_item4": "No overselling unnecessary technology",
+
+    "suited_for_title": "A Good Fit For",
+    "suited_for_item1": "Startups that need a product execution team",
+    "suited_for_item2": "Companies modernizing their internal systems",
+    "suited_for_item3": "Small teams that need to accelerate delivery",
+    "suited_for_item4": "Brands that want stronger digital experiences"
+  },
+
+  "testimonials": {
+    "title": "What our clients say about Osamu Creative",
+    "subtitle": "A few highlighted feedback from teams we've collaborated with.",
+
+    "t1_category": "Product & Engineering Collaboration",
+    "t1_quote": "Osamu Creative didn’t just complete tasks—they helped us think through product priorities. Communication was smooth, documentation was clean, and the handover to our internal team was seamless.",
+    "t1_author": "Head of Product – SaaS B2B",
+
+    "t2_category": "Design & Delivery",
+    "t2_quote": "From the design side, Osamu Creative is strong in detail and consistency. On the delivery side, they were flexible and adapted well to our sprint rhythm.",
+    "t2_author": "CTO – Technology Company",
+
+    "anonymous_note": "(Client name omitted for confidentiality)"
+  },
+
+  "contact": {
+    "title": "Ready to discuss your digital product?",
+    "subtitle": "Share a brief context of your business and project idea. We'll respond with recommendations and an initial estimate.",
+
+    "bot_field": "Do not fill:",
+
+    "name": "Name",
+    "name_placeholder": "Your name",
+
+    "company": "Company / Brand",
+    "company_placeholder": "Example: Contoh Digital Ltd",
+
+    "email": "Email",
+    "email_placeholder_user": "email",
+    "email_placeholder_domain": "gmail.com",
+
+    "timing": "Target start time",
+    "timing_placeholder": "Example: Q2 2026, ASAP, etc.",
+
+    "message": "Describe your context & needs",
+    "message_placeholder": "Example: dashboard redesign, mobile app build, internal system integration, etc.",
+
+    "cta_send": "Send Brief",
+
+    "info_title": "Contact Osamu Creative",
+    "location": "Location",
+    "whatsapp": "WhatsApp",
+    "email_label": "Email",
+    "website": "Website",
+
+    "response_note": "We typically respond within 1–2 business days with several approach options and a rough estimate. For deeper discussion, we can schedule a short intro call first."
+  },
+
+  "footer": {
+    "brand_desc": "Osamu Creative is a software house & digital product studio focused on functional products, clean design, and transparent communication.",
+    "menu_title": "Menu",
+    "contact_title": "Contact",
+
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "website": "Website",
+
+    "rights": "All rights reserved.",
+    "tagline": "Software House & Digital Product Studio – Less, but Better."
+  }
+}

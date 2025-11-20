@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "services": "Layanan",
+    "process": "Proses",
+    "portfolio": "Portofolio",
+    "expertise": "Keahlian",
+    "contact": "Kontak",
+    "cta_free_consult": "Konsultasi Gratis"
+  },
+
+  "hero": {
+    "badge_tagline": "Software House & Digital Product Studio",
+    "title_main": "Membangun produk digital",
+    "title_highlight": "yang dipakai, bukan hanya dilihat.",
+    "description": "Osamu Creative membantu startup dan perusahaan merancang, membangun, dan mengembangkan aplikasi web, mobile, serta sistem internal yang berfokus pada pengalaman pengguna dan kebutuhan bisnis Anda.",
+    "cta_consult": "Jadwalkan Konsultasi",
+    "cta_portfolio": "Lihat Portofolio",
+    "stat1_title": "5+ tahun pengalaman",
+    "stat1_desc": "membangun produk digital lintas industri",
+    "stat2_title": "Kolaboratif & transparan",
+    "stat2_desc": "proses yang dekat dengan tim internal Anda",
+    "snapshot_title": "Snapshot Proyek Digital",
+    "metric1_label": "Proyek aktif",
+    "metric1_value": "8",
+    "metric1_desc": "3 sprint berjalan",
+    "metric2_label": "Lead time fitur",
+    "metric2_value": "2–3",
+    "metric2_desc": "minggu rata-rata",
+    "metric3_label": "NPS klien",
+    "metric3_value": "9.1",
+    "metric3_desc": "dari 10 skala",
+    "pipeline_label": "Pipeline sprint",
+    "pipeline_status": "On track",
+    "pipeline_item1_name": "Fintech dashboard",
+    "pipeline_item1_status": "Sprint 02",
+    "pipeline_item2_name": "Healthcare app",
+    "pipeline_item2_status": "Sprint 05",
+    "pipeline_item3_name": "Internal tools",
+    "pipeline_item3_status": "Discovery",
+    "mobile_caption_prefix": "Dari riset, desain hingga shipping, Osamu Creative",
+    "mobile_caption_highlight": "mengawal produk digital end-to-end",
+    "mobile_caption_suffix": "."
+  },
+
+  "clients": {
+    "subtitle": "Telah dipercaya oleh tim dari berbagai industri",
+    "fintech": "Fintech",
+    "healthcare": "Healthcare",
+    "fmcg": "FMCG",
+    "saas_b2b": "SaaS B2B",
+    "edutech": "EduTech"
+  },
+
+  "services": {
+    "title": "Layanan Osamu Creative",
+    "subtitle": "Kami membantu Anda dari ide hingga produk jadi — melalui desain yang matang, engineering yang rapi, dan proses kolaborasi yang transparan.",
+
+    "webapps_badge": "Web Application",
+    "webapps_title": "Aplikasi Web & Dashboard",
+    "webapps_desc": "Membangun aplikasi web dan dashboard internal yang scalable dan mudah dirawat, dari admin panel sampai platform SaaS.",
+    "webapps_bullet1": "Business dashboard & reporting",
+    "webapps_bullet2": "Internal tools & workflow automation",
+    "webapps_bullet3": "Platform SaaS & customer portal",
+
+    "mobile_badge": "Mobile Product",
+    "mobile_title": "Aplikasi Mobile iOS & Android",
+    "mobile_desc": "Merancang dan mengembangkan aplikasi mobile dengan pengalaman pengguna yang halus dan konsisten di berbagai perangkat.",
+    "mobile_bullet1": "Consumer app & loyalty program",
+    "mobile_bullet2": "On-the-field operation app",
+    "mobile_bullet3": "Prototyping & MVP untuk startup",
+
+    "ux_badge": "Product & UX",
+    "ux_title": "UI/UX & Product Discovery",
+    "ux_desc": "Membantu tim Anda memetakan kebutuhan user, menyusun flow, hingga desain high-fidelity yang siap di-develop.",
+    "ux_bullet1": "UX research & user interview",
+    "ux_bullet2": "Design system & UI kit",
+    "ux_bullet3": "Product workshop bersama stakeholder"
+  },
+
+  "process": {
+    "title": "Proses Kolaborasi yang Jelas",
+    "subtitle": "Kami percaya project yang sehat dimulai dari ekspektasi yang jelas. Proses ini kami pakai di hampir semua engagement Osamu Creative.",
+    "note": "Fleksibel mengikuti model kerja: waterfall, agile sprint, maupun hybrid.",
+
+    "phase1_badge": "Fase 01",
+    "phase1_title": "Discovery & Scope",
+    "phase1_duration": "1–2 minggu",
+    "phase1_desc": "Workshop kebutuhan, mapping user journey, prioritas fitur, dan penyusunan scope proyek yang realistis.",
+
+    "phase2_badge": "Fase 02",
+    "phase2_title": "Design & Prototype",
+    "phase2_duration": "2–4 minggu",
+    "phase2_desc": "Wireframe, UI design, dan clickable prototype untuk validasi arah produk sebelum development.",
+
+    "phase3_badge": "Fase 03",
+    "phase3_title": "Development & QA",
+    "phase3_duration": "4–8 minggu",
+    "phase3_desc": "Implementasi front-end & back-end, integrasi API, automated test, dan QA manual di environment staging.",
+
+    "phase4_badge": "Fase 04",
+    "phase4_title": "Launch & Iteration",
+    "phase4_duration": "±1–2 minggu",
+    "phase4_desc": "Go-live terarah, observasi metrik awal, dan iterasi berdasarkan feedback user maupun tim internal Anda."
+  },
+
+  "portfolio": {
+    "title": "Cuplikan Portofolio",
+    "subtitle": "Beberapa tipe proyek yang pernah kami kerjakan — dari dashboard internal hingga aplikasi consumer-facing.",
+
+    "p1_badge": "Web Application",
+    "p1_title": "Sales & Inventory Dashboard",
+    "p1_desc": "Dashboard real-time untuk memantau penjualan, stok, dan performa tim sales di beberapa kota sekaligus.",
+    "p1_tech": "Tech stack: Nuxt, Node.js, PostgreSQL, Tailwind CSS",
+
+    "p2_badge": "Mobile Product",
+    "p2_title": "Loyalty App Retail Brand",
+    "p2_desc": "Aplikasi membership dengan poin, voucher, dan push notification untuk meningkatkan repeat purchase pelanggan.",
+    "p2_tech": "Tech stack: Flutter, Firebase, REST API",
+
+    "p3_badge": "Product & UX",
+    "p3_title": "UX Revamp Platform SaaS",
+    "p3_desc": "Redesign end-to-end untuk platform SaaS B2B, fokus pada simplifikasi flow kompleks dan peningkatan adoption.",
+    "p3_meta": "Deliverables: UX audit, design system, prototype",
+
+    "cta_text": "Ingin melihat studi kasus yang lebih detail?",
+    "cta_highlight": "Kami dapat mengirimkan portofolio sesuai industri Anda.",
+    "cta_hint": "Sertakan jenis bisnis dan kebutuhan proyek Anda di form konsultasi."
+  },
+
+  "expertise": {
+    "title": "Tech Stack & Keahlian",
+    "subtitle": "Kami menggabungkan engineering yang kuat dengan desain yang thoughtful — supaya produk tidak hanya berjalan, tapi juga menyenangkan dipakai.",
+
+    "frontend_label": "Front-end",
+    "frontend_item1": "Nuxt (Vue), React, Next.js",
+    "frontend_item2": "Tailwind CSS, Headless UI",
+    "frontend_item3": "Design system & component library",
+
+    "backend_label": "Back-end & Data",
+    "backend_item1": "Node.js, Laravel",
+    "backend_item2": "PostgreSQL, MySQL, Redis",
+    "backend_item3": "REST API & integrasi layanan pihak ketiga",
+
+    "ops_label": "Delivery & Ops",
+    "ops_item1": "GitHub / GitLab CI",
+    "ops_item2": "Docker & container-based deployment",
+    "ops_item3": "Monitoring dasar & error tracking"
+  },
+
+  "about": {
+    "title": "Osamu Creative: Less, but Better.",
+    "paragraph1": "Osamu Creative adalah software house dan digital product studio yang berfokus pada produk dengan eksekusi rapi, desain bersih, dan komunikasi yang mudah dipahami oleh semua stakeholder.",
+    "paragraph2": "Kami suka bekerja dekat dengan tim internal Anda — founder, product, hingga ops — untuk memastikan produk yang dibangun benar-benar menjawab masalah bisnis, bukan sekadar menambah fitur.",
+
+    "how_we_work_title": "Cara Kami Bekerja",
+    "how_we_work_item1": "Transparan soal scope & timeline",
+    "how_we_work_item2": "Komunikasi rutin via kanal yang disepakati",
+    "how_we_work_item3": "Dokumentasi yang bisa dioper ke tim internal",
+    "how_we_work_item4": "Tidak oversell teknologi yang tidak perlu",
+
+    "suited_for_title": "Cocok Untuk",
+    "suited_for_item1": "Startup yang butuh tim eksekusi produk",
+    "suited_for_item2": "Perusahaan yang ingin modernisasi sistem",
+    "suited_for_item3": "Tim kecil yang perlu akselerasi delivery",
+    "suited_for_item4": "Brand yang ingin pengalaman digital lebih kuat"
+  },
+
+  "testimonials": {
+    "title": "Apa kata klien tentang Osamu Creative",
+    "subtitle": "Beberapa highlight feedback dari tim yang pernah bekerja bersama kami.",
+
+    "t1_category": "Kolaborasi Product & Engineering",
+    "t1_quote": "Osamu Creative tidak hanya mengerjakan task, tapi juga membantu kami memikirkan prioritas produk. Komunikasi enak, dokumentasi rapi, dan handover ke tim internal berjalan mulus.",
+    "t1_author": "Head of Product – SaaS B2B",
+
+    "t2_category": "Design & Delivery",
+    "t2_quote": "Dari sisi desain, Osamu Creative sangat kuat di detail dan konsistensi. Dari sisi delivery, mereka fleksibel mengikuti ritme sprint yang kami pakai di internal.",
+    "t2_author": "CTO – Perusahaan Teknologi",
+
+    "anonymous_note": "(Nama disamarkan untuk menjaga kerahasiaan klien)"
+  },
+
+  "contact": {
+    "title": "Siap mendiskusikan produk digital Anda?",
+    "subtitle": "Ceritakan konteks singkat bisnis dan ide proyek Anda. Kami akan kembali dengan rekomendasi pendekatan dan estimasi awal.",
+
+    "bot_field": "Jangan diisi:",
+
+    "name": "Nama",
+    "name_placeholder": "Nama Anda",
+
+    "company": "Perusahaan / Brand",
+    "company_placeholder": "Contoh: PT Contoh Digital",
+
+    "email": "Email",
+    "email_placeholder_user": "email",
+    "email_placeholder_domain": "gmail.com",
+
+    "timing": "Target waktu mulai",
+    "timing_placeholder": "Contoh: Q2 2026, secepatnya, dll.",
+
+    "message": "Ceritakan konteks & kebutuhan singkat",
+    "message_placeholder": "Contoh: redesign dashboard, build mobile app, integrasi sistem internal, dll.",
+
+    "cta_send": "Kirim Brief Singkat",
+
+    "info_title": "Kontak Osamu Creative",
+    "location": "Lokasi",
+    "whatsapp": "WhatsApp",
+    "email_label": "Email",
+    "website": "Website",
+
+    "response_note": "Kami biasanya merespons dalam 1–2 hari kerja dengan beberapa opsi pendekatan dan estimasi kasar. Untuk diskusi mendalam, kami dapat menjadwalkan sesi call singkat terlebih dahulu."
+  },
+
+  "footer": {
+    "brand_desc": "Osamu Creative adalah software house & digital product studio yang berfokus pada produk fungsional, desain bersih, dan komunikasi yang transparan.",
+    "menu_title": "Menu",
+    "contact_title": "Kontak",
+
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "website": "Website",
+
+    "rights": "Seluruh hak cipta dilindungi.",
+    "tagline": "Software House & Digital Product Studio – Less, but Better."
+  }
+}

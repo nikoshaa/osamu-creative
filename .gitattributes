@@ -1,0 +1,30 @@
+# Force LF line endings for all text files
+* text=auto eol=lf
+
+# Treat these file types as text
+*.js text
+*.ts text
+*.vue text
+*.json text
+*.md text
+*.html text
+*.css text
+*.scss text
+*.yaml text
+*.yml text
+*.env text
+
+# Images and binaries (keep as-is)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg text
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+
+# Lock files
+package-lock.json text eol=lf
+pnpm-lock.yaml text eol=lf

@@ -35,6 +35,5 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: [],
-
+  modules: [], // i18n pakai plugin manual, jadi kosong tidak masalah
 })

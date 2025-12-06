@@ -125,13 +125,13 @@
 
           <div class="space-y-1 text-slate-200 mb-3">
             <p class="font-medium">Osamu Creative — Software House & Digital Studio</p>
-            <p>{{ t("contact.location") }}: (Jakarta / Bekasi / isi kotamu)</p>
+            <p>{{ t("contact.location") }}: Bekasi</p>
           </div>
 
-          <div class="space-y-1 text-slate-200 mb-3">
+          <!-- <div class="space-y-1 text-slate-200 mb-3">
             <p>
               {{ t("contact.whatsapp") }}:
-              <span class="font-semibold">+62 8xx-xxxx-xxxx</span>
+              <span class="font-semibold">+62 813-8696-4470</span>
             </p>
             <p>
               {{ t("contact.email_label") }}:
@@ -141,9 +141,9 @@
             </p>
             <p>
               {{ t("contact.website") }}:
-              <span class="font-semibold">osamucreative.com</span>
+              <span class="font-semibold">osamu-creative.netlify.app</span>
             </p>
-          </div>
+          </div> -->
 
           <p class="text-xs text-slate-400 border-t border-slate-800 pt-3 leading-relaxed">
             {{ t("contact.response_note") }}

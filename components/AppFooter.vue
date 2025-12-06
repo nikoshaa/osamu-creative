@@ -31,21 +31,21 @@
       </div>
 
       <!-- CONTACT -->
-      <div>
+      <!-- <div>
         <h3 class="text-sm font-semibold text-slate-100 mb-3">
           {{ t("footer.contact_title") }}
         </h3>
         <ul class="space-y-2 text-sm">
-          <li>{{ t("footer.whatsapp") }}: <span class="text-slate-100">+62 8xx-xxxx-xxxx</span></li>
+          <li>{{ t("footer.whatsapp") }}: <span class="text-slate-100">+62 813-8696-4470</span></li>
           <li>
             {{ t("footer.email") }}:
             <span class="text-slate-100">
               {{ `${t('contact.email_placeholder_user')}@${t('contact.email_placeholder_domain')}` }}
             </span>
           </li>
-          <li>{{ t("footer.website") }}: <span class="text-slate-100">osamucreative.com</span></li>
+          <li>{{ t("footer.website") }}: <span class="text-slate-100">osamu-creative.netlify.app</span></li>
         </ul>
-      </div>
+      </div> -->
     </div>
 
     <!-- COPYRIGHT -->

@@ -33,7 +33,6 @@
     "metric3_desc": "dari 10 skala",
     "pipeline_label": "Pipeline sprint",
     "pipeline_status": "On track",
-    "pipeline_item1_name": "Fintech dashboard",
     "pipeline_item1_status": "Sprint 02",
     "pipeline_item2_name": "Healthcare app",
     "pipeline_item2_status": "Sprint 05",
@@ -46,7 +45,6 @@
 
   "clients": {
     "subtitle": "Telah dipercaya oleh tim dari berbagai industri",
-    "fintech": "Fintech",
     "healthcare": "Healthcare",
     "fmcg": "FMCG",
     "saas_b2b": "SaaS B2B",
@@ -165,21 +163,6 @@
     "suited_for_item2": "Perusahaan yang ingin modernisasi sistem",
     "suited_for_item3": "Tim kecil yang perlu akselerasi delivery",
     "suited_for_item4": "Brand yang ingin pengalaman digital lebih kuat"
-  },
-
-  "testimonials": {
-    "title": "Apa kata klien tentang Osamu Creative",
-    "subtitle": "Beberapa highlight feedback dari tim yang pernah bekerja bersama kami.",
-
-    "t1_category": "Kolaborasi Product & Engineering",
-    "t1_quote": "Osamu Creative tidak hanya mengerjakan task, tapi juga membantu kami memikirkan prioritas produk. Komunikasi enak, dokumentasi rapi, dan handover ke tim internal berjalan mulus.",
-    "t1_author": "Head of Product – SaaS B2B",
-
-    "t2_category": "Design & Delivery",
-    "t2_quote": "Dari sisi desain, Osamu Creative sangat kuat di detail dan konsistensi. Dari sisi delivery, mereka fleksibel mengikuti ritme sprint yang kami pakai di internal.",
-    "t2_author": "CTO – Perusahaan Teknologi",
-
-    "anonymous_note": "(Nama disamarkan untuk menjaga kerahasiaan klien)"
   },
 
   "contact": {

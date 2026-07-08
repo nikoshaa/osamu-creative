@@ -33,7 +33,6 @@
     "metric3_desc": "out of 10 scale",
     "pipeline_label": "Sprint pipeline",
     "pipeline_status": "On track",
-    "pipeline_item1_name": "Fintech dashboard",
     "pipeline_item1_status": "Sprint 02",
     "pipeline_item2_name": "Healthcare app",
     "pipeline_item2_status": "Sprint 05",
@@ -46,7 +45,6 @@
 
   "clients": {
     "subtitle": "Trusted by teams across industries",
-    "fintech": "Fintech",
     "healthcare": "Healthcare",
     "fmcg": "FMCG",
     "saas_b2b": "SaaS B2B",
@@ -165,21 +163,6 @@
     "suited_for_item2": "Companies modernizing their internal systems",
     "suited_for_item3": "Small teams that need to accelerate delivery",
     "suited_for_item4": "Brands that want stronger digital experiences"
-  },
-
-  "testimonials": {
-    "title": "What our clients say about Osamu Creative",
-    "subtitle": "A few highlighted feedback from teams we've collaborated with.",
-
-    "t1_category": "Product & Engineering Collaboration",
-    "t1_quote": "Osamu Creative didn’t just complete tasks—they helped us think through product priorities. Communication was smooth, documentation was clean, and the handover to our internal team was seamless.",
-    "t1_author": "Head of Product – SaaS B2B",
-
-    "t2_category": "Design & Delivery",
-    "t2_quote": "From the design side, Osamu Creative is strong in detail and consistency. On the delivery side, they were flexible and adapted well to our sprint rhythm.",
-    "t2_author": "CTO – Technology Company",
-
-    "anonymous_note": "(Client name omitted for confidentiality)"
   },
 
   "contact": {

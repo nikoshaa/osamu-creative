@@ -14,9 +14,6 @@
         class="flex flex-wrap items-center justify-center gap-x-12 gap-y-6 text-sm md:text-base text-slate-300/80 font-medium"
       >
         <span class="uppercase tracking-[0.22em] hover:text-indigo-300 transition">
-          {{ t('clients.fintech') }}
-        </span>
-        <span class="uppercase tracking-[0.22em] hover:text-indigo-300 transition">
           {{ t('clients.healthcare') }}
         </span>
         <span class="uppercase tracking-[0.22em] hover:text-indigo-300 transition">

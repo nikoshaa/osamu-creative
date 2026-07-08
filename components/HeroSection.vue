@@ -130,26 +130,6 @@
                   {{ t('hero.pipeline_status') }}
                 </span>
               </div>
-              <div class="space-y-1.5 text-[11px]">
-                <div class="flex justify-between">
-                  <span>{{ t('hero.pipeline_item1_name') }}</span>
-                  <span class="font-semibold text-slate-100">
-                    {{ t('hero.pipeline_item1_status') }}
-                  </span>
-                </div>
-                <div class="flex justify-between">
-                  <span>{{ t('hero.pipeline_item2_name') }}</span>
-                  <span class="font-semibold text-slate-100">
-                    {{ t('hero.pipeline_item2_status') }}
-                  </span>
-                </div>
-                <div class="flex justify-between">
-                  <span>{{ t('hero.pipeline_item3_name') }}</span>
-                  <span class="font-semibold text-slate-100">
-                    {{ t('hero.pipeline_item3_status') }}
-                  </span>
-                </div>
-              </div>
             </div>
 
             <div

@@ -10,7 +10,6 @@
       <PortfolioSection />
       <ExpertiseSection />
       <AboutSection />
-      <TestimonialsSection />
       <ContactSection />
     </main>
 
